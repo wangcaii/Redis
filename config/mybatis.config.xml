@@ -11,7 +11,7 @@
 				<property name="url" value="jdbc:mysql://localhost:3306/bookstore0717?useUnicode=true&amp;characterEncoding=UTF8" />
 				<property name="username" value="root" />
 				<property name="password" value="123456" />
- 
+ 王才
   </dataSource>
  </environment>
   </environments>
